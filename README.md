@@ -1,5 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/48675371/177496536-1cb4458e-f069-4e9c-97f8-c36d875db6f8.png)
-
+![github-header-image](https://user-images.githubusercontent.com/48675371/177498364-b57da22a-37a9-41aa-884e-7f80ac472013.png)
 
 <p>
   <h3>
