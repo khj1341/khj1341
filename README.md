@@ -1,4 +1,4 @@
-<h1> Hi, I'm Hyunjae Kim.</h1>
+<h1> Hi, I'm a frontend developer.</h1>
 
 <p>
   <h3>
