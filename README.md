@@ -33,4 +33,4 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![khj1341's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj1341&show_icons=true&theme=swift&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&langs_count=7)&layout=compact&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&langs_count=7&layout=compact&theme=swift))
