@@ -2,12 +2,6 @@
 
 <p>
   <h3>
-    Portfolio at 
-    <a href="https://jackportfolio.com/">
-      https://jackportfolio.com/
-    </a>
-  </h3>
-  <h3>
     Notion at
     <a href="https://spiky-crayon-2e8.notion.site/Full-Stack-Developer-76b843934bef439d9176d105f27473b4">
       Full Stack Developer
